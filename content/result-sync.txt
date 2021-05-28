@@ -1,0 +1,1 @@
+Here is the result : read from first file, read from second file
